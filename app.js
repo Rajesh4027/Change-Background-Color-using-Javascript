@@ -1,3 +1,4 @@
+// js code
 const btn = document.getElementById("btn");
 let randomNum = () => {
     return Math.floor(Math.random() *256);
